@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">日付</string>
+    <string name="syukkin_time">出勤時間</string>
+    <string name="taikin_time">退勤時間</string>
+    <string name="kyuukei_time">休憩時間</string>
+    <string name="work_time">勤務時間</string>
+    <string name="zangyou_time">残業時間</string>
+    <string name="zisyakyuuzitu">自社休日</string>
+    <string name="kyakusaki">客先休日</string>
+    <string name="today">日付</string>
+</resources>
